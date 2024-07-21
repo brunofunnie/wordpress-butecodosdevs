@@ -1,0 +1,15 @@
+# Wordpress Core
+/cache/
+/themes/index.php
+/languages/
+/plugins/
+index.php
+
+# Roots Sage for the Theme
+/themes/butecodosdevs/node_modules
+/themes/butecodosdevs/vendor
+/themes/butecodosdevs/public
+/themes/butecodosdevs/.env
+/themes/butecodosdevs/.budfiles
+/themes/butecodosdevs/npm-debug.log
+/themes/butecodosdevs/yarn-error.log
